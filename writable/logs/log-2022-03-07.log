@@ -1,0 +1,32 @@
+CRITICAL - 2022-03-07 01:44:58 --> Undefined variable: data
+#0 D:\xampp\htdocs\app_mencoba_putrich\app\Controllers\MenuController.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 60, Array)
+#1 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(825): App\Controllers\MenuController->delete('3')
+#2 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#3 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_mencoba_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_mencoba_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-07 01:47:46 --> Undefined variable: data
+#0 D:\xampp\htdocs\app_mencoba_putrich\app\Controllers\MenuController.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 60, Array)
+#1 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(825): App\Controllers\MenuController->delete('3')
+#2 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#3 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_mencoba_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_mencoba_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-07 01:48:04 --> Undefined variable: data
+#0 D:\xampp\htdocs\app_mencoba_putrich\app\Controllers\MenuController.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 60, Array)
+#1 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(825): App\Controllers\MenuController->delete('3')
+#2 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#3 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_mencoba_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_mencoba_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-07 01:48:26 --> Undefined variable: data
+#0 D:\xampp\htdocs\app_mencoba_putrich\app\Controllers\MenuController.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 60, Array)
+#1 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(825): App\Controllers\MenuController->delete('5')
+#2 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#3 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_mencoba_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_mencoba_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}

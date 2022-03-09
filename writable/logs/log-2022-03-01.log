@@ -1,0 +1,127 @@
+ERROR - 2022-03-01 20:06:08 --> Error connecting to the database: Unknown database 'db_mencoba_putrich'
+CRITICAL - 2022-03-01 20:06:08 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'db_mencoba_putrich'
+#0 D:\xampp\htdocs\app_mencoba_putrich\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\xampp\htdocs\app_mencoba_putrich\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `id`, `n...', Array, false)
+#2 D:\xampp\htdocs\app_mencoba_putrich\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\xampp\htdocs\app_mencoba_putrich\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 D:\xampp\htdocs\app_mencoba_putrich\app\Controllers\PesanController.php(31): CodeIgniter\BaseModel->findAll()
+#5 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(825): App\Controllers\PesanController->index()
+#6 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanController))
+#7 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\app_mencoba_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\app_mencoba_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2022-03-01 20:12:46 --> Error connecting to the database: Unknown database 'db_mencoba_putrich'
+CRITICAL - 2022-03-01 20:12:46 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'db_mencoba_putrich'
+#0 D:\xampp\htdocs\app_mencoba_putrich\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\xampp\htdocs\app_mencoba_putrich\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `id`, `n...', Array, false)
+#2 D:\xampp\htdocs\app_mencoba_putrich\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\xampp\htdocs\app_mencoba_putrich\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 D:\xampp\htdocs\app_mencoba_putrich\app\Controllers\PesanController.php(31): CodeIgniter\BaseModel->findAll()
+#5 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(825): App\Controllers\PesanController->index()
+#6 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanController))
+#7 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\app_mencoba_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\app_mencoba_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-03-01 20:46:16 --> Undefined offset: 1
+#0 D:\xampp\htdocs\app_mencoba_putrich\app\Controllers\PesanController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'D:\\xampp\\htdocs...', 75, Array)
+#1 D:\xampp\htdocs\app_mencoba_putrich\app\Controllers\PesanController.php(57): App\Controllers\PesanController->cek('2')
+#2 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(825): App\Controllers\PesanController->addCart()
+#3 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanController))
+#4 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\app_mencoba_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\xampp\htdocs\app_mencoba_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-03-01 22:48:36 -->  route cannot be found while reverse-routing.
+#0 D:\xampp\htdocs\app_mencoba_putrich\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 D:\xampp\htdocs\app_mencoba_putrich\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 D:\xampp\htdocs\app_mencoba_putrich\app\Controllers\UserController.php(89): redirect('/login')
+#3 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(825): App\Controllers\UserController->logout()
+#4 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#5 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\app_mencoba_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\app_mencoba_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 22:52:29 -->  route cannot be found while reverse-routing.
+#0 D:\xampp\htdocs\app_mencoba_putrich\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 D:\xampp\htdocs\app_mencoba_putrich\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 D:\xampp\htdocs\app_mencoba_putrich\app\Controllers\UserController.php(89): redirect('/login')
+#3 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(825): App\Controllers\UserController->logout()
+#4 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#5 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\app_mencoba_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\app_mencoba_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 22:54:07 -->  route cannot be found while reverse-routing.
+#0 D:\xampp\htdocs\app_mencoba_putrich\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 D:\xampp\htdocs\app_mencoba_putrich\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 D:\xampp\htdocs\app_mencoba_putrich\app\Controllers\UserController.php(89): redirect('/login')
+#3 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(825): App\Controllers\UserController->logout()
+#4 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#5 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\app_mencoba_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\app_mencoba_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 22:54:11 -->  route cannot be found while reverse-routing.
+#0 D:\xampp\htdocs\app_mencoba_putrich\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 D:\xampp\htdocs\app_mencoba_putrich\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 D:\xampp\htdocs\app_mencoba_putrich\app\Controllers\UserController.php(89): redirect('/login')
+#3 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(825): App\Controllers\UserController->logout()
+#4 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#5 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\app_mencoba_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\app_mencoba_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 22:54:51 -->  route cannot be found while reverse-routing.
+#0 D:\xampp\htdocs\app_mencoba_putrich\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 D:\xampp\htdocs\app_mencoba_putrich\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 D:\xampp\htdocs\app_mencoba_putrich\app\Controllers\UserController.php(89): redirect('/login')
+#3 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(825): App\Controllers\UserController->logout()
+#4 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#5 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\app_mencoba_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\app_mencoba_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 22:54:55 -->  route cannot be found while reverse-routing.
+#0 D:\xampp\htdocs\app_mencoba_putrich\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 D:\xampp\htdocs\app_mencoba_putrich\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 D:\xampp\htdocs\app_mencoba_putrich\app\Controllers\UserController.php(89): redirect('/login')
+#3 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(825): App\Controllers\UserController->logout()
+#4 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#5 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\app_mencoba_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\app_mencoba_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 22:55:38 -->  route cannot be found while reverse-routing.
+#0 D:\xampp\htdocs\app_mencoba_putrich\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 D:\xampp\htdocs\app_mencoba_putrich\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 D:\xampp\htdocs\app_mencoba_putrich\app\Controllers\UserController.php(89): redirect('/login')
+#3 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(825): App\Controllers\UserController->logout()
+#4 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#5 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\app_mencoba_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\app_mencoba_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 22:57:01 -->  route cannot be found while reverse-routing.
+#0 D:\xampp\htdocs\app_mencoba_putrich\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 D:\xampp\htdocs\app_mencoba_putrich\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 D:\xampp\htdocs\app_mencoba_putrich\app\Controllers\UserController.php(89): redirect('/login')
+#3 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(825): App\Controllers\UserController->logout()
+#4 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#5 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\app_mencoba_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\app_mencoba_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-01 22:57:34 -->  route cannot be found while reverse-routing.
+#0 D:\xampp\htdocs\app_mencoba_putrich\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 D:\xampp\htdocs\app_mencoba_putrich\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 D:\xampp\htdocs\app_mencoba_putrich\app\Controllers\UserController.php(89): redirect('/login')
+#3 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(825): App\Controllers\UserController->logout()
+#4 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#5 D:\xampp\htdocs\app_mencoba_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\app_mencoba_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp\htdocs\app_mencoba_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#8 {main}

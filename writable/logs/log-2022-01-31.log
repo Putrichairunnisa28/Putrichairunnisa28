@@ -1,0 +1,395 @@
+CRITICAL - 2022-01-31 05:54:54 --> Class 'App\Controllers\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 05:56:24 --> Class 'App\Controllers\user' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 05:59:16 --> Class 'App\Controllers\Users' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 05:59:46 --> Class 'App\Controllers\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 06:02:02 --> Class 'App\Controllers\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 06:05:06 --> Class 'App\Controllers\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 06:09:54 --> Class 'App\Controllers\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 06:14:01 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 06:15:53 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 06:17:50 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 06:17:53 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 06:31:15 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 06:34:09 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 06:54:29 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 06:55:00 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 06:56:25 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 06:56:27 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:05:19 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:11:46 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:15:42 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:15:52 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:15:55 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:16:32 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:16:33 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:17:47 --> Class 'App\Models\user' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:17:49 --> Class 'App\Models\user' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:17:49 --> Class 'App\Models\user' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:17:50 --> Class 'App\Models\user' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:18:07 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:18:08 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:18:09 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:18:51 --> Class 'App\Controllers\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:18:52 --> Class 'App\Controllers\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:18:53 --> Class 'App\Controllers\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:18:54 --> Class 'App\Controllers\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:18:55 --> Class 'App\Controllers\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:19:36 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:19:39 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:20:56 --> Class 'App\Controllers\UserModel' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:20:57 --> Class 'App\Controllers\UserModel' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:20:58 --> Class 'App\Controllers\UserModel' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:20:59 --> Class 'App\Controllers\UserModel' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:21:00 --> Class 'App\Controllers\UserModel' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:22:36 --> Allowed memory size of 536870912 bytes exhausted (tried to allocate 4096 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-31 07:24:15 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:24:49 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:24:50 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:24:54 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:24:59 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:26:01 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:26:04 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:26:38 --> Class 'App\Controllers\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:26:40 --> Class 'App\Controllers\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:26:42 --> Class 'App\Controllers\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:27:00 --> Class 'App\Controllers\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:27:01 --> Class 'App\Controllers\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-31 07:27:41 --> Class 'App\Models\User' not found
+#0 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}

@@ -1,0 +1,72 @@
+ERROR - 2022-01-30 00:11:38 --> Table 'db_resto_putrich.menu' doesn't exist
+CRITICAL - 2022-01-30 00:11:38 --> Table 'db_resto_putrich.menu' doesn't exist
+#0 D:\xampp\htdocs\app_resto_putrich\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\app_resto_putrich\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\app_resto_putrich\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\app_resto_putrich\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\app_resto_putrich\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\app_resto_putrich\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\app_resto_putrich\app\Controllers\MenuController.php(11): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#8 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#9 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2022-01-30 00:16:18 --> Table 'db_resto_putrich.menu' doesn't exist
+CRITICAL - 2022-01-30 00:16:18 --> Table 'db_resto_putrich.menu' doesn't exist
+#0 D:\xampp\htdocs\app_resto_putrich\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\app_resto_putrich\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\app_resto_putrich\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\app_resto_putrich\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\app_resto_putrich\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\app_resto_putrich\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\app_resto_putrich\app\Controllers\MenuController.php(11): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#8 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#9 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2022-01-30 00:24:50 --> Table 'db_resto_putrich.menu' doesn't exist
+CRITICAL - 2022-01-30 00:24:50 --> Table 'db_resto_putrich.menu' doesn't exist
+#0 D:\xampp\htdocs\app_resto_putrich\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\app_resto_putrich\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\app_resto_putrich\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\app_resto_putrich\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\app_resto_putrich\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\app_resto_putrich\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\app_resto_putrich\app\Controllers\MenuController.php(11): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#8 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#9 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2022-01-30 00:24:53 --> Table 'db_resto_putrich.menu' doesn't exist
+CRITICAL - 2022-01-30 00:24:53 --> Table 'db_resto_putrich.menu' doesn't exist
+#0 D:\xampp\htdocs\app_resto_putrich\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\app_resto_putrich\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\app_resto_putrich\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\app_resto_putrich\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\app_resto_putrich\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\app_resto_putrich\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\app_resto_putrich\app\Controllers\MenuController.php(11): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#8 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#9 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2022-01-30 01:00:04 --> Undefined index: alamat
+#0 D:\xampp\htdocs\app_resto_putrich\app\Views\user.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp\\htdocs...', 22, Array)
+#1 D:\xampp\htdocs\app_resto_putrich\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\app_resto_putrich\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\app_resto_putrich\system\Common.php(1089): CodeIgniter\View\View->render('user', Array, true)
+#4 D:\xampp\htdocs\app_resto_putrich\app\Controllers\UserController.php(12): view('user', Array)
+#5 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#6 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 D:\xampp\htdocs\app_resto_putrich\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\app_resto_putrich\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\app_resto_putrich\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#10 {main}
